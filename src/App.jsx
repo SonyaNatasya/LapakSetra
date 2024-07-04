@@ -8,7 +8,8 @@ import TentangKami from './pages/Tentang-kami/TentangKami';
 import HubungiKami from './pages/Hubungi-kami/HubungiKami';
 import FasilitasRumah from './pages/Fasilitas-rumah/FasilitasRumah';
 import Hunian from './pages/Hunian/Hunian';
-import SemDat from './data/DataBaru';
+import SemDat from './data/SemuaData';
+
 import Lihatsemua from './pages/Lihat-semua/Lihatsemua';
 import Login from './pages/Login/Login';
 import UserLogin from './PagesValidation/Login/UserLogin';

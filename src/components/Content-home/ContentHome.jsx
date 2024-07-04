@@ -1,7 +1,7 @@
 import RowRight from "../../assets/icons/row_Right.svg";
 import { Tabs, TabList, Tab, TabIndicator } from "@chakra-ui/react";
 import Cards from "../Cards/Cards";
-import SemDat from "../../data/DataBaru";
+import SemDat from '../../data/SemuaData';
 import { Link, NavLink } from "react-router-dom";
 
 const ContentHome = ({ katagori, setKatagori, products, addtocart }) => {
